@@ -1,0 +1,36 @@
+5
+islam bin
+01742852148
+20
+60.3
+66
+yasin saZid
+01752571737
+20
+69.5
+67
+sadman sakib
+01949763419
+20
+73.2
+66
+ahmedul kavi
+01790507630
+19
+93.5
+67
+syed yusuf
+01796751025
+19
+62.5
+66
+
+search - name, phone number
+filter - bmi >xx print their name and address
+insert a person
+delete a person
+update a persons information (name, ....)
+
+
+
+
